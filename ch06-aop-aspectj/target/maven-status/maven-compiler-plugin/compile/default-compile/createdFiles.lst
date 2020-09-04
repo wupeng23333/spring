@@ -1,0 +1,10 @@
+com\wupeng\bao1\MyAspect.class
+com\wupeng\bao1\SomeService.class
+com\wupeng\bao2\Student.class
+com\wupeng\bao3\SomeServiceImpl.class
+com\wupeng\bao2\SomeService.class
+com\wupeng\bao2\SomeServiceImpl.class
+com\wupeng\bao1\SomeServiceImpl.class
+com\wupeng\bao2\MyAspect.class
+com\wupeng\bao3\MyAspect.class
+com\wupeng\bao3\SomeService.class

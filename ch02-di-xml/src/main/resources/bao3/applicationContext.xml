@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="myStudent" class="com.wupeng.bao3.Student">
+        <constructor-arg name="name" value="张三"/>
+        <constructor-arg name="age" value="14"/>
+        <constructor-arg name="school" ref="myschool"/>
+    </bean>
+    <bean id="myschool" class="com.wupeng.bao3.School">
+        <property name="name" value="北京大学"></property>
+        <property name="address" value="北京"></property>
+    </bean>
+</beans>

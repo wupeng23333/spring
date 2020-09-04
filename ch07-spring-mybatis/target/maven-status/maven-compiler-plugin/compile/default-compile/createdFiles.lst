@@ -1,0 +1,4 @@
+com\wupeng\service\impl\StudentServiceImpl.class
+com\wupeng\service\StudentService.class
+com\wupeng\domain\Student.class
+com\wupeng\dao\StudentDao.class

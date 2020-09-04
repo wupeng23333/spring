@@ -1,0 +1,7 @@
+com\wupeng\domain\Goods.class
+com\wupeng\service\BuyGoodsService.class
+com\wupeng\dao\SaleDao.class
+com\wupeng\execp\NotEnoughExecption.class
+com\wupeng\domain\Sale.class
+com\wupeng\service\impl\BuyGoodsServiceImpl.class
+com\wupeng\dao\GoodsDao.class
